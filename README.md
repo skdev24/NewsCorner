@@ -4,7 +4,6 @@ API FROM : https://newsapi.org/
 
 
 
-<a href="https://drive.google.com/open?id=1634eHMgxamgh7hjSSt3pJznKjg4rveT9"><img src="https://drive.google.com/open?id=1634eHMgxamgh7hjSSt3pJznKjg4rveT9" title=""/></a>
-
+<a href="https://imgflip.com/gif/26x23u"><img src="https://i.imgflip.com/26x23u.gif" title="made at imgflip.com"/></a>
 
 
