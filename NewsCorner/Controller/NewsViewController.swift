@@ -64,7 +64,7 @@ class NewsViewController: UIViewController,UITableViewDataSource,UITableViewDele
     
     
     
-    let forecastBaseURL = "https://newsapi.org/v2/sources?language=en&apiKey=c1ca4f0c2e1641ea99e8853b82e36ed0"
+    let forecastBaseURL = "https://newsapi.org/v2/sources?language=en&apiKey=YOUR_API_KEY"
     var forecastBaseURL2 = String()
     
     
@@ -127,7 +127,7 @@ class NewsViewController: UIViewController,UITableViewDataSource,UITableViewDele
     
     func getNewsDetails(urlString: String) {
         
-        let newUrlString = "https://newsapi.org/v2/top-headlines?sources=\(urlString)&apiKey=c1ca4f0c2e1641ea99e8853b82e36ed0"
+        let newUrlString = "https://newsapi.org/v2/top-headlines?sources=\(urlString)&apiKey=YOUR_API_KEY"
         
         let url = URL(string: newUrlString)
         
